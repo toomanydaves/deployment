@@ -1,0 +1,23 @@
+# Logs #
+######################
+*.log
+# OS specific files #
+#####################
+.DS_Store
+.DS_Store?
+# VIM temp files #
+##################
+*~
+.*.sw*
+
+# Repository directories
+########################
+web-app/
+inspiration-web-app/
+thoughts-web-app/
+api/
+
+# Built directories
+###################
+node_modules/
+static/

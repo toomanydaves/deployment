@@ -1,0 +1,17 @@
+{
+	"name": "toomanydaves",
+	"version": "0.0.1",
+	"description": "A contribution",
+	"url": "http://toomanydaves.net",
+	"author": "Sean Jacke <seanineurope@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/toomanydaves/deployment.git"
+    },
+	"bugs": "http://github.com/toomanydaves/deployment/issues",
+	"license": "MIT",
+	"dependencies": {
+		"express": "3.4.x",
+		"mongoose": "3.8.x"
+	}
+}

@@ -1,0 +1,9 @@
+{
+    "name": "toomanydaves",
+    "version": "0.1.0",
+    "dependencies": {
+        "api": "https://github.com/toomanydaves/api.git#0.1.0",
+        "inspiration": "https://github.com/toomanydaves/inspiration-web-app.git#0.1.0",
+        "thoughts": "https://github.com/toomanydaves/thoughts-web-app.git#0.1.0"
+    }
+}
